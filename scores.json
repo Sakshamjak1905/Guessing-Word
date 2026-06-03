@@ -1,0 +1,19 @@
+{
+  "easy": [
+    {
+      "player": "Player",
+      "score": 386,
+      "word": "napkin",
+      "timestamp": "2026-05-31 15:02"
+    }
+  ],
+  "medium": [
+    {
+      "player": "Player",
+      "score": 330,
+      "word": "ideology",
+      "timestamp": "2026-05-31 15:05"
+    }
+  ],
+  "hard": []
+}
